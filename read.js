@@ -19,5 +19,5 @@ function append(path) {
         })
     })
 }
-
+ 
 append('./read.txt')
